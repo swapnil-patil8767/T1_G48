@@ -1,9 +1,13 @@
-# 🧠 Emotion Classification using Facial Expressions and EEG
+# Emotion Classification using Facial Expressions and EEG
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.6%2B-orange.svg)](https://xgboost.readthedocs.io/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-93%25-brightgreen.svg)](#results)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
 
 > **Advanced multimodal emotion recognition system combining EEG brainwave patterns with facial expression analysis to achieve 93% classification accuracy.**
 
@@ -146,4 +150,4 @@ The system classifies the following emotional states:
 - **Engaged** 🎯
 - **Confused** 🤔  
 - **Neutral** 😐
--
+
